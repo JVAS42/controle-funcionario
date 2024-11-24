@@ -155,9 +155,10 @@ Este guia explica como configurar o **Projeto de Controle de Funcionários** uti
 
 #### 3. **Abrir o Projeto no Eclipse**  
    - Abra o **Eclipse IDE**.  
-   - Selecione o workspace onde deseja importar o projeto (pode ser o padrão ou crie um novo).  
+   - Selecione o Package Explorer.  
    - Importe o projeto:  
-     1. Vá em **File > Import > WAR File**.  
+     1. Clique com o botaão Direito do mouse vá em **Import > General > Existing Projects into Workspace.**.
+     2. Selecione o projeto que você baixou junto ao arquivo zipado.
      3. Clique em **Finish** para importar o projeto.  
 
 #### 4. **Configurar o Apache Tomcat no Eclipse**  
