@@ -6,12 +6,13 @@ Certifique-se de seguir as etapas na ordem indicada para garantir o funcionament
 
 ### O sistema utiliza
 
+- Java 17
 - JDK - Java Development Kit
 - JRE - Java Runtime Environment
 - JVM - Máquina virtual Java
-- Banco de dados - PostgreSQL
+- Banco de dados - PostgreSQL e PGAdmin
 - Servidor de Aplicação, servlets ou web container - Tomcat
-- IDE de sua preferência. No nosso caso, utilizamos a IDE Eclipse
+- IDE de sua preferência. No nosso caso, utilizamos a IDE EE Eclipse
 
 <h1 align="center"> Guia de Instalação </h1>
 
